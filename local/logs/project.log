@@ -1,0 +1,384 @@
+2018-09-10T05:57:14.688Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-10T05:57:14.688Z - normal: checking language setting...
+2018-09-10T05:57:14.688Z - normal: Language: zh
+2018-09-10T05:57:16.105Z - success: protocol editor-framework registered
+2018-09-10T05:57:16.105Z - success: protocol app registered
+2018-09-10T05:57:16.105Z - success: protocol theme registered
+2018-09-10T05:57:16.105Z - success: protocol packages registered
+2018-09-10T05:57:16.105Z - success: protocol unpack registerred
+2018-09-10T05:57:16.105Z - success: protocol disable-commonjs registerred
+2018-09-10T05:57:16.292Z - normal: connected!
+2018-09-10T05:57:16.292Z - normal: Check project D:\CocosProject\AdventuresPandaJungle
+2018-09-10T05:57:16.308Z - normal: Initializing project D:\CocosProject\AdventuresPandaJungle
+2018-09-10T05:57:16.324Z - normal: Initializing Cocos2d
+2018-09-10T05:57:16.838Z - normal: Initializing Asset Database
+2018-09-10T05:57:16.870Z - success: protocol uuid registerred
+2018-09-10T05:57:16.870Z - success: protocol db registerred
+2018-09-10T05:57:16.870Z - success: protocol thumbnail registerred
+2018-09-10T05:57:16.870Z - normal: Loading editor/builtin packages
+2018-09-10T05:57:16.979Z - success: assets loaded
+2018-09-10T05:57:16.979Z - success: builder loaded
+2018-09-10T05:57:16.979Z - success: cocos-analytics loaded
+2018-09-10T05:57:16.979Z - success: console loaded
+2018-09-10T05:57:17.010Z - success: fb-instant-games loaded
+2018-09-10T05:57:17.010Z - success: hierarchy loaded
+2018-09-10T05:57:17.010Z - success: inspector loaded
+2018-09-10T05:57:17.010Z - success: keystore loaded
+2018-09-10T05:57:17.026Z - success: node-library loaded
+2018-09-10T05:57:17.026Z - success: package-asset loaded
+2018-09-10T05:57:17.026Z - success: preferences loaded
+2018-09-10T05:57:17.026Z - success: project-exporter loaded
+2018-09-10T05:57:17.026Z - success: project-importer loaded
+2018-09-10T05:57:17.041Z - success: project-settings loaded
+2018-09-10T05:57:17.041Z - success: ui-kit loaded
+2018-09-10T05:57:17.041Z - success: scene loaded
+2018-09-10T05:57:17.041Z - success: sprite-editor loaded
+2018-09-10T05:57:17.041Z - success: store loaded
+2018-09-10T05:57:17.041Z - success: timeline loaded
+2018-09-10T05:57:17.041Z - normal: Loading builtin packages
+2018-09-10T05:57:17.041Z - success: asset-db-debugger loaded
+2018-09-10T05:57:17.041Z - success: code-editor loaded
+2018-09-10T05:57:17.041Z - success: color-picker loaded
+2018-09-10T05:57:17.041Z - success: jsb-adapter loaded
+2018-09-10T05:57:17.041Z - success: package-manager loaded
+2018-09-10T05:57:17.104Z - success: qqplay-adapter loaded
+2018-09-10T05:57:17.119Z - success: sdkbox loaded
+2018-09-10T05:57:17.119Z - success: tester loaded
+2018-09-10T05:57:17.119Z - success: ui-grid loaded
+2018-09-10T05:57:17.119Z - success: ui-kit-preview-extra loaded
+2018-09-10T05:57:17.119Z - success: ui-kit-preview loaded
+2018-09-10T05:57:17.119Z - success: ui-tree loaded
+2018-09-10T05:57:17.119Z - success: weapp-adapter loaded
+2018-09-10T05:57:17.869Z - normal: Loading packages
+2018-09-10T05:57:17.869Z - normal: Watching packages
+2018-09-10T05:57:18.056Z - normal: Run Application
+2018-09-10T05:57:18.331Z - success: preview server running at http://localhost:7456
+2018-09-10T06:39:58.723Z - success: VS Code extension installed to C:\Users\Administrator\.vscode\extensions
+2018-09-10T06:40:00.936Z - success: API data generated and copied to D:\CocosProject\AdventuresPandaJungle\creator.d.ts
+2018-09-10T06:40:04.445Z - success: Compiling task has been added to .vscode/tasks.json, please run "compile" task in VS Code to trigger compile in Cocos Creator.
+2018-09-10T06:40:07.377Z - success: Chrome debug setting has been updated to .vscode/launch.json, please install Debugger for Chrome VS Code extension to debug your project.
+2018-09-10T07:29:18.051Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Canvas/Main Camera"
+Script UUID: "ab09f960-a9b7-4063-91cf-f6896c4ec803"
+Class ID: "ab09flgqbdAY5HP9olsTsgD"
+
+2018-09-10T07:29:47.015Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Canvas/Main Camera"
+Script UUID: "ab09f960-a9b7-4063-91cf-f6896c4ec803"
+Class ID: "ab09flgqbdAY5HP9olsTsgD"
+
+2018-09-10T07:29:47.249Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Canvas/Main Camera"
+Script UUID: "ab09f960-a9b7-4063-91cf-f6896c4ec803"
+Class ID: "ab09flgqbdAY5HP9olsTsgD"
+
+2018-09-10T07:29:47.468Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Canvas/Main Camera"
+Script UUID: "ab09f960-a9b7-4063-91cf-f6896c4ec803"
+Class ID: "ab09flgqbdAY5HP9olsTsgD"
+
+2018-09-10T07:29:56.326Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Canvas/Main Camera"
+Script UUID: "ab09f960-a9b7-4063-91cf-f6896c4ec803"
+Class ID: "ab09flgqbdAY5HP9olsTsgD"
+
+2018-09-10T07:29:56.560Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Canvas/Main Camera"
+Script UUID: "ab09f960-a9b7-4063-91cf-f6896c4ec803"
+Class ID: "ab09flgqbdAY5HP9olsTsgD"
+
+2018-09-10T07:43:55.455Z - error: Property 'Map.obstacles' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:166:16)
+    at Object.exports.preprocessAttrs (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:212:36)
+    at declareProperties (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:645:28)
+    at Object.CCClass [as Class] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:688:17)
+    at __define (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:13:4)
+    at D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:87:13
+    at Object.<anonymous> (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:94:11)
+    at Object.<anonymous> (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:97:3)
+    at Module._compile (module.js:571:32)
+2018-09-10T07:44:48.337Z - error: Do not set default value to non-empty object, unless the object defines its own 'clone' function. Set default value of Map.obstacle to null or {}, and initialize in 'onLoad' or 'ctor' please. (just like 'this.obstacle = {foo: bar};')
+    at Object.cc.errorID (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:166:16)
+    at defineProp (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:113:36)
+    at declareProperties (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:649:25)
+    at Object.CCClass [as Class] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:688:17)
+    at __define (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:13:4)
+    at D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:85:13
+    at Object.<anonymous> (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:92:11)
+    at Object.<anonymous> (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:95:3)
+    at Module._compile (module.js:571:32)
+2018-09-10T07:44:54.361Z - error: Do not set default value to non-empty object, unless the object defines its own 'clone' function. Set default value of Map.obstacle to null or {}, and initialize in 'onLoad' or 'ctor' please. (just like 'this.obstacle = {foo: bar};')
+    at Object.cc.errorID (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:166:16)
+    at defineProp (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:113:36)
+    at declareProperties (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:649:25)
+    at Object.CCClass [as Class] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:688:17)
+    at __define (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:13:4)
+    at D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:85:13
+    at Object.<anonymous> (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:92:11)
+    at Object.<anonymous> (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:95:3)
+    at Module._compile (module.js:571:32)
+2018-09-10T07:45:15.945Z - error: Do not set default value to non-empty object, unless the object defines its own 'clone' function. Set default value of Map.obstacle to null or {}, and initialize in 'onLoad' or 'ctor' please. (just like 'this.obstacle = {foo: bar};')
+    at Object.cc.errorID (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:166:16)
+    at defineProp (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:113:36)
+    at declareProperties (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:649:25)
+    at Object.CCClass [as Class] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:688:17)
+    at __define (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:13:4)
+    at D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:85:13
+    at Object.<anonymous> (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:92:11)
+    at Object.<anonymous> (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:95:3)
+    at Module._compile (module.js:571:32)
+2018-09-10T07:45:32.078Z - error: Do not set default value to non-empty object, unless the object defines its own 'clone' function. Set default value of Map.obstacle to null or {}, and initialize in 'onLoad' or 'ctor' please. (just like 'this.obstacle = {foo: bar};')
+    at Object.cc.errorID (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:166:16)
+    at defineProp (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:113:36)
+    at declareProperties (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:649:25)
+    at Object.CCClass [as Class] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:688:17)
+    at __define (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:15:4)
+    at D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:87:13
+    at Object.<anonymous> (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:94:11)
+    at Object.<anonymous> (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:97:3)
+    at Module._compile (module.js:571:32)
+2018-09-10T07:45:41.425Z - warn: Can not serialize 'Map.obstacle' because the specified type is anonymous, please provide a class name or set the 'serializable' attribute of 'Map.obstacle' to 'false'.
+2018-09-10T07:45:56.983Z - error: Unknown type of CCClass.aaa, property should be defined in 'properties' or 'ctor'
+    at Object.cc.errorID (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:166:16)
+    at Object.exports.validateMethodWithProps (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:276:28)
+    at Object.CCClass [as Class] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:709:33)
+    at __define (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:12:19)
+    at D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:88:13
+    at Object.<anonymous> (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:95:11)
+    at Object.<anonymous> (D:\CocosProject\AdventuresPandaJungle\temp\quick-scripts\assets\Map.js:98:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2018-09-10T07:45:56.984Z - warn: Can not serialize 'Map.obstacle' because the specified type is anonymous, please provide a class name or set the 'serializable' attribute of 'Map.obstacle' to 'false'.
+2018-09-10T10:01:01.611Z - warn: object already destroyed
+2018-09-10T11:07:19.847Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\CocosProject\\AdventuresPandaJungle\\build",
+  "debug": false,
+  "dest": "D:\\CocosProject\\AdventuresPandaJungle\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.AdventuresPandaJungle",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "39a1a694-87ef-4d4c-a796-ef7c20fe495d",
+    "1fdae827-6f40-4748-b4ac-af0965ede921"
+  ],
+  "sourceMaps": false,
+  "startScene": "39a1a694-87ef-4d4c-a796-ef7c20fe495d",
+  "template": "link",
+  "title": "AdventuresPandaJungle",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7e26114a-cac7-49",
+  "zipCompressJs": true,
+  "project": "D:\\CocosProject\\AdventuresPandaJungle",
+  "projectName": "AdventuresPandaJungle",
+  "debugBuildWorker": false
+}
+2018-09-10T11:07:19.852Z - normal: Building D:\CocosProject\AdventuresPandaJungle
+2018-09-10T11:07:19.852Z - normal: Destination D:\CocosProject\AdventuresPandaJungle\build\web-mobile
+2018-09-10T11:07:20.197Z - normal: Delete D:\CocosProject\AdventuresPandaJungle\build\web-mobile\**\*
+2018-09-10T11:08:25.563Z - normal: Start building assets
+2018-09-10T11:08:25.564Z - normal: Start spawn build-worker
+2018-09-10T11:08:26.268Z - normal: Finish spawn build-worker
+2018-09-10T11:08:26.268Z - normal: Start init build-worker
+2018-09-10T11:08:29.227Z - normal: Finish init build-worker
+2018-09-10T11:08:29.227Z - normal: Start build-assets in worker
+2018-09-10T11:08:29.684Z - normal: Finish build-assets in worker
+2018-09-10T11:08:29.687Z - normal: Finish building assets
+2018-09-10T11:08:29.694Z - normal: Start building plugin scripts
+2018-09-10T11:08:29.705Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-09-10T11:08:29.723Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-09-10T11:08:29.761Z - normal: Built to "D:\CocosProject\AdventuresPandaJungle\build\web-mobile" successfully
+2018-09-10T11:13:17.543Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\CocosProject\\AdventuresPandaJungle\\build",
+  "debug": false,
+  "dest": "D:\\CocosProject\\AdventuresPandaJungle\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.AdventuresPandaJungle",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "39a1a694-87ef-4d4c-a796-ef7c20fe495d",
+    "1fdae827-6f40-4748-b4ac-af0965ede921"
+  ],
+  "sourceMaps": false,
+  "startScene": "39a1a694-87ef-4d4c-a796-ef7c20fe495d",
+  "template": "link",
+  "title": "AdventuresPandaJungle",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7e26114a-cac7-49",
+  "zipCompressJs": true,
+  "project": "D:\\CocosProject\\AdventuresPandaJungle",
+  "projectName": "AdventuresPandaJungle",
+  "debugBuildWorker": false
+}
+2018-09-10T11:13:17.552Z - normal: Building D:\CocosProject\AdventuresPandaJungle
+2018-09-10T11:13:17.552Z - normal: Destination D:\CocosProject\AdventuresPandaJungle\build\web-mobile
+2018-09-10T11:13:17.554Z - normal: Delete D:\CocosProject\AdventuresPandaJungle\build\web-mobile\**\*
+2018-09-10T11:13:19.832Z - normal: Start building assets
+2018-09-10T11:13:19.832Z - normal: Start spawn build-worker
+2018-09-10T11:13:20.552Z - normal: Finish spawn build-worker
+2018-09-10T11:13:20.552Z - normal: Start init build-worker
+2018-09-10T11:13:23.374Z - normal: Finish init build-worker
+2018-09-10T11:13:23.375Z - normal: Start build-assets in worker
+2018-09-10T11:13:23.615Z - normal: Finish build-assets in worker
+2018-09-10T11:13:23.619Z - normal: Finish building assets
+2018-09-10T11:13:23.626Z - normal: Start building plugin scripts
+2018-09-10T11:13:23.635Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-09-10T11:13:23.645Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-09-10T11:13:23.673Z - normal: Built to "D:\CocosProject\AdventuresPandaJungle\build\web-mobile" successfully
+2018-09-10T11:23:22.345Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\CocosProject\\AdventuresPandaJungle\\build",
+  "debug": false,
+  "dest": "D:\\CocosProject\\AdventuresPandaJungle\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.AdventuresPandaJungle",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "39a1a694-87ef-4d4c-a796-ef7c20fe495d",
+    "1fdae827-6f40-4748-b4ac-af0965ede921"
+  ],
+  "sourceMaps": false,
+  "startScene": "39a1a694-87ef-4d4c-a796-ef7c20fe495d",
+  "template": "link",
+  "title": "AdventuresPandaJungle",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7e26114a-cac7-49",
+  "zipCompressJs": true,
+  "project": "D:\\CocosProject\\AdventuresPandaJungle",
+  "projectName": "AdventuresPandaJungle",
+  "debugBuildWorker": false
+}
+2018-09-10T11:23:22.347Z - normal: Building D:\CocosProject\AdventuresPandaJungle
+2018-09-10T11:23:22.348Z - normal: Destination D:\CocosProject\AdventuresPandaJungle\build\web-mobile
+2018-09-10T11:23:22.348Z - normal: Delete D:\CocosProject\AdventuresPandaJungle\build\web-mobile\**\*
+2018-09-10T11:23:24.568Z - normal: Start building assets
+2018-09-10T11:23:24.568Z - normal: Start spawn build-worker
+2018-09-10T11:23:25.180Z - normal: Finish spawn build-worker
+2018-09-10T11:23:25.180Z - normal: Start init build-worker
+2018-09-10T11:23:27.695Z - normal: Finish init build-worker
+2018-09-10T11:23:27.695Z - normal: Start build-assets in worker
+2018-09-10T11:23:27.898Z - normal: Finish build-assets in worker
+2018-09-10T11:23:27.902Z - normal: Finish building assets
+2018-09-10T11:23:27.907Z - normal: Start building plugin scripts
+2018-09-10T11:23:27.915Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-09-10T11:23:27.918Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-09-10T11:23:27.946Z - normal: Built to "D:\CocosProject\AdventuresPandaJungle\build\web-mobile" successfully
+2018-09-10T11:23:34.628Z - info: shutdown preview server
